@@ -19,13 +19,13 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/JuiceFW/Python-Proxy-Controller.git
+   git clone https://github.com/JuiceFW/Wildberries-Manager.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Python-Proxy-Controller
+   cd Wildberries-Manager
    ```
 
 3. Install dependencies:
